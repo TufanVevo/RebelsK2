@@ -1,0 +1,3 @@
+projeyi başlatmak için nodejs uygulaması kurulmalı
+terminal'e npm i yazınız ardından node . ile başlatınız
+config.json'u doldurmayı unutma

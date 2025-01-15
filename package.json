@@ -1,0 +1,15 @@
+{
+  "name": "bayahahnetyt-siparis",
+  "version": "1.0.0",
+  "description": "bayahahnetyt sipariş",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "SlenzyCode",
+  "license": "MIT",
+  "dependencies": {
+    "croxydb": "^0.0.22",
+    "discord.js": "^14.14.1"
+  }
+}
